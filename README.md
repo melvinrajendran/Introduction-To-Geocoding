@@ -6,6 +6,6 @@ This program is used to implement geocoding and reverse geocoding functionality 
 Uber, Lyft, Google Maps, Life360, and Waze utilize some form of geocoding for a number of different purposes, e.g. ride-sharing, map directions, location sharing, etc..
 
 ## Developer
-Melvin Rajendran
-South Brunswick High School - Class of 2021
+Melvin Rajendran. 
+South Brunswick High School - Class of 2021  
 melvin.rajendran@gmail.com
